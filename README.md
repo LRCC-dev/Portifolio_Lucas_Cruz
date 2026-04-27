@@ -1,17 +1,17 @@
-# [Lucas Rodrigo Carvalho Cuz]
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+# Lucas Rodrigo Carvalho Cuz
+> Estudante de analise e desenvolvimento de sistemas 
  
 ---
  
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
+[![E-mail]https://mail.google.com/mail/u/0/#inbox
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
  
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Atualmente cursando analise e desenvolvimento de sistemas (ADS) na UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em desenvolvimento front-end,cyber security e analise de dados 
  
 * **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.

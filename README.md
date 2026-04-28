@@ -42,15 +42,15 @@ Atualmente cursando analise e desenvolvimento de sistemas (ADS) na UNICID. Sou a
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Site hotel age** | criação do site do hotel age - desenvolvimento front-end. | [Ver Projeto](.https://drive.google.com/drive/folders/1Z3j0c_RGDSzmlUZZt35ZWFY9IknmhJjJ?usp=drive_link) |
- 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **site hotel AGE** | criaçao de um site em HTML para o hotel AGE. | [Ver Projeto](https://drive.google.com/drive/folders/1Z3j0c_RGDSzmlUZZt35ZWFY9IknmhJjJ?usp=drive_link) |
+
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **diagrama de classes - modelagem de banco de dados ** | diagrama de classes. | [Ver Projeto](https://drive.google.com/file/d/1EOufQBmPqVlARuv-qFsrlDnouKVzKgfI/view?usp=drive_link) |
  
 ---
  

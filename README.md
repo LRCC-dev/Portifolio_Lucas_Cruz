@@ -45,7 +45,7 @@ Atualmente cursando analise e desenvolvimento de sistemas (ADS) na UNICID. Sou a
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Site hotel age** | criação do site do hotel age - desenvolvimento front-end. | [Ver Projeto](.https://drive.google.com/drive/folders/1Z3j0c_RGDSzmlUZZt35ZWFY9IknmhJjJ?usp=drive_link) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |

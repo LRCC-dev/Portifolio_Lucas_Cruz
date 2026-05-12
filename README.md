@@ -1,4 +1,4 @@
-# Lucas Rodrigo Carvalho Cuz
+# Lucas Rodrigo Carvalho Cruz
 > Estudante de analise e desenvolvimento de sistemas 
  
 ---

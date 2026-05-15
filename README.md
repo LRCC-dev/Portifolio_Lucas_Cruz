@@ -47,7 +47,7 @@ Atualmente cursando analise e desenvolvimento de sistemas (ADS) na UNICID. Sou a
 | :--- | :--- | :---: |
 | **site hotel AGE** | criaçao de um site em HTML para o hotel AGE. | [Ver Projeto](https://drive.google.com/drive/folders/1Z3j0c_RGDSzmlUZZt35ZWFY9IknmhJjJ?usp=drive_link) |
 
-#### 🤖 Inteligência Artificial
+#### 🤖 *modelagem de banco de dados*
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **diagrama de classes** | diagrama de classes desenvolvido em aula de modelagem de banco de dados. | [Ver Projeto](https://drive.google.com/file/d/1EOufQBmPqVlARuv-qFsrlDnouKVzKgfI/view?usp=drive_link) |

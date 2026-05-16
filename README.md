@@ -8,7 +8,7 @@ Apaixonado por construir interfaces digitais responsivas, acessíveis e focadas 
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigo-920218234/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1l26Rlf5IN4yuyb3Fmp2dcfITWHCNgKB-/view?usp=drive_link)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/LRCC-dev/portfolio-lucas-rodrigo-carvalho-cruz/blob/main/CV/Curri%CC%81culo26PDF.pdf)
  
 ---
  

@@ -17,7 +17,6 @@ Estudante de ADS na UNICID com os pés no Front-end e os olhos no futuro dos dad
  
 * **Habilidades Técnicas:** front-end | HTML | CSS | Java Script
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
  
 ---
  
@@ -47,8 +46,11 @@ Estudante de ADS na UNICID com os pés no Front-end e os olhos no futuro dos dad
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **site hotel AGE** | criaçao de um site em HTML para o hotel AGE. | [Ver Projeto](https://drive.google.com/drive/folders/1Z3j0c_RGDSzmlUZZt35ZWFY9IknmhJjJ?usp=drive_link) |
-
+| **SM2 - Laboratório de Classificação Visual** | Utilizar o navegador para acessar o Teachable Machine e realizar o treinamento de um modelo de imagem simples.. | [Ver Projeto](https://github.com/LRCC-dev/portfolio-lucas-rodrigo-carvalho-cruz/tree/main/SM2_trabalho) |
+**SM3 - Batalha de Modelos e Engenharia de Prompt (XML)** |Avaliar a precisão técnica e a conformidade de diferentes LLMs...| [Ver Projeto](https://github.com/LRCC-dev/portfolio-lucas-rodrigo-carvalho-cruz/tree/main/SM3%20Batalha_de_modelos_%26engenharia_de_prompt_(XML)) |
+**SM4 - Engenharia Reversa** |Projeto de recriação de aplicação web com uso de Inteligência Artificial, baseado na análise da interface e geração automatizada de código sem acesso ao código-fonte original.| [Ver Projeto](https://github.com/LRCC-dev/portfolio-lucas-rodrigo-carvalho-cruz/tree/main/SM4%20Engenharia_reversa) |
+**SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** |Desenvolvimento prático de um site responsivo e moderno, concebido através de metodologias avançadas de Engenharia de Prompt aplicadas no Google AI Studio.| [Ver Projeto](https://github.com/LRCC-dev/portfolio-lucas-rodrigo-carvalho-cruz/tree/main/SM5-%20Projeto_AI_studio)
+**SM8 - Composição Musical Assistida por Inteligência Artificial** |Desenvolver 5 músicas através do Prompt e Suno AI| [Ver Projeto](https://github.com/LRCC-dev/portfolio-lucas-rodrigo-carvalho-cruz/tree/main/projeto-musica-ia) |
 #### 🤖 *modelagem de banco de dados*
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
